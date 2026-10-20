@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792468775|6842188';
+const CACHE_VERSION = '1792473234|3176947';
 /** @type {string} */
 const CACHE_PREFIX = 'Stray Cloud: An -sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
